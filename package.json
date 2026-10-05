@@ -1,0 +1,12 @@
+{
+  "name": "devops-module-4-activity2",
+  "version": "1.0.0",
+  "description": "Express greeting application for DevOps Module 4 Activity 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
